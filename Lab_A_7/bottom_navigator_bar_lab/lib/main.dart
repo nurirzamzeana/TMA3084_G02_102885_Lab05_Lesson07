@@ -45,7 +45,7 @@ class _BottomNavLabState extends State<BottomNavLab> {
         title: const Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text('Bottom Navigation Bar'),
+            Text('Lab 05: Exercise A'),
             Text(
               'Nurirzam Zeana | 102885 | G02',
               style: TextStyle(fontSize: 12),
